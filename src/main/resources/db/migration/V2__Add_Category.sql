@@ -1,0 +1,1 @@
+insert into PRODUCT_CATEGORY(category_name) values ('Мясные'),('Молочные'),('Овощи'),('Фрукты'),('Напитки');
